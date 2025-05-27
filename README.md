@@ -20,6 +20,8 @@
     }
     img {
       width: 250px;
+      git clone https://github.com/tymofii32/bug-free-computing-machine.git
+      
       border-radius: 20px;
       box-shadow: 0 4px 10px rgba(0,0,0,0.3);
       margin-top: 20px;
